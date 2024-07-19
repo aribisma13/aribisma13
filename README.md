@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari Bisma</h1>
-<h3 align="center">I'm Programmer</h3
+<h3 align="center">Programmer's</h3
 
 ![Dark Blue Futuristic Technology Facebook Cover](https://github.com/user-attachments/assets/bcec415b-8ddb-490a-9968-76839d524d2b)
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React Js & Laravel**
 
-- 💬 Ask me about **I'm Student In ITB Stikom Bali**
+- 💬 Ask me about **I'm a Student at ITB Stikom Bali**
 
-- 📫 How to reach me **aribisma@gmail.com**
+- 📫 How to reach me **aribisma19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
