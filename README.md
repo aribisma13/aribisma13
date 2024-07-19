@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ari Bisma</h1>
 <h3 align="center">I'm Fullstack Developer from Bali - Indonesia</h3
 
-![Red Modern Programming YouTube Thumbnail](https://github.com/user-attachments/assets/622ef65d-3d19-47a7-8732-7e41bcc0a240)
+![Dark Blue Futuristic Technology Facebook Cover](https://github.com/user-attachments/assets/bcec415b-8ddb-490a-9968-76839d524d2b)
 
 - 🔭 I’m currently working on **PT. Kumbang Karya Digital**
 
