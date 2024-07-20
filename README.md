@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js & Laravel**
 
-- 💬 Ask me about **I'm a Student at ITB Stikom Bali**
+- 💬 Ask me about **I'm a Student at ITB STIKOM Bali**
 
 - 📫 How to reach me **aribisma19@gmail.com**
 
