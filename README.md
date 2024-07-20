@@ -28,6 +28,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aribisma13/aribisma13/output/snake.svg" alt="Snake animation" />
-
 ###
