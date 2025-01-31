@@ -3,7 +3,7 @@
 
 ![Dark Blue Futuristic Technology Facebook Cover](https://github.com/user-attachments/assets/bcec415b-8ddb-490a-9968-76839d524d2b)
 
-- 🔭 I’m currently working on **PT. Kumbang Karya Digital**
+- 🔭 I’m currently working on **Freelancer**
 
 - 🌱 I’m currently learning **React Js & Laravel**
 
